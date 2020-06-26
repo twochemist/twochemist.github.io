@@ -161,13 +161,13 @@ a{
 }
 
 .html5 {
-    width: 260%;
+    width: 250%;
     -moz-animation: html5 2s ease-out;
     -webkit-animation: html5 2s ease-out;
 }
 
-.css3 {
-    width: 200%;
+.javascript {
+    width: 150%;
     -moz-animation: css3 2s ease-out;
     -webkit-animation: css3 2s ease-out;
 }
@@ -178,14 +178,14 @@ a{
     -webkit-animation: jquery 2s ease-out;
 }
 
-.javascript {
-    width: 100%;
+.php {
+    width: 70%;
     -moz-animation: javascript 2s ease-out;
     -webkit-animation: javascript 2s ease-out;
 }
 
-.PHP {
-    width: 50%;
+.node {
+    width: 20%;
     -moz-animation: PHP 2s ease-out;
     -webkit-animation: PHP 2s ease-out;
 }
