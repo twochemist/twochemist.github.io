@@ -1,5 +1,5 @@
 /* global */
-@import url('<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap" rel="stylesheet">');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .grid-2{
     display: grid;
@@ -9,9 +9,9 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Semi-bold 600', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #101214;
-    color: #fcfcfc;
+    color: #7A7C80;
 
 }
 
@@ -20,9 +20,8 @@ h2,.white{
 }
 
 a{
-    color: #e0f5ab;
-    text-decoration-line: underline;
-	text-decoration-style:solid ;
+    color: #7A7C80;
+    text-decoration: none;
 }
 /* section 1 */
 .section-1{
@@ -92,9 +91,9 @@ a{
 }
 
 .aboutme-highlight2 {
-  background-color: #e0f5ab;
+  background-color: #6bd2f8;
   color: black;
-  font-family: "Semi-bold 600";
+  font-family: "Roboto";
 }
 	
 
@@ -161,13 +160,13 @@ a{
 }
 
 .html5 {
-    width: 250%;
+    width: 260%;
     -moz-animation: html5 2s ease-out;
     -webkit-animation: html5 2s ease-out;
 }
 
-.javascript {
-    width: 150%;
+.css3 {
+    width: 200%;
     -moz-animation: css3 2s ease-out;
     -webkit-animation: css3 2s ease-out;
 }
@@ -178,14 +177,14 @@ a{
     -webkit-animation: jquery 2s ease-out;
 }
 
-.php {
-    width: 70%;
+.javascript {
+    width: 100%;
     -moz-animation: javascript 2s ease-out;
     -webkit-animation: javascript 2s ease-out;
 }
 
-.node {
-    width: 20%;
+.PHP {
+    width: 50%;
     -moz-animation: PHP 2s ease-out;
     -webkit-animation: PHP 2s ease-out;
 }
@@ -295,36 +294,5 @@ a{
   position: relative;
   bottom: 0;
   width: 100%;
-  height: 2.5rem; /* Footer height */
-  
-}
-
- /* Background Gradient  */
-
-html, body {
-  width: 100vw;
-  height: 100vh;
-  background: #2C3E50; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #2C3E50 , #FD746C); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #2c2f33 , #576775); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
- /* Imagen Fondo */
-
-img {
-  
-  
-	margin-bottom: 20px;
-	width: 100%;
-	height: auto;
-	opacity: 0.6;
-	border-radius: 40px;
-	transform: scaleX(-1);
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-	
-	
-	
+  height: 2.5rem;            /* Footer height */
 }
