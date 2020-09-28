@@ -23,7 +23,7 @@ h2 {
 h3 {
     font-size: 32px;
     letter-spacing: 6px;
-    color: #191919;
+    color: #334998;
 }
 
 h4 {
@@ -52,15 +52,15 @@ a {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: #191919;
-    font-size: 58px;
+    color: #334998;
+    font-size: 48px;
 }
 
 .hero-whoami {
     display: inline-block;
     margin: 0 auto 120px;
     width: auto;
-    border: 3px solid #fff;
+    border: 3px solid #334998;
     border-radius: 2px;
     padding: 0 16px;
     font-weight: 400;
@@ -73,7 +73,7 @@ a {
 
 .hero-profession {
     letter-spacing: 2px;
-    font-size: 42px;
+    font-size: 32px;
 }
 
 .about {
