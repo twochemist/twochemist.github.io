@@ -17,13 +17,13 @@ strong {
 
 h2 {
     font-size: 32px;
-    letter-spacing: 6px;
+    letter-spacing: 2px;
 }
 
 h3 {
     font-size: 32px;
     letter-spacing: 6px;
-    color: #334998;
+    color: #fff;
 }
 
 h4 {
@@ -46,21 +46,21 @@ a {
 
 .hero {
     height: auto;
-    padding: 120px 0 350px 0;
-    background-image: url('../img/amap3.webp');
+    padding:120px 0 180px 0;
+    background-image: url('../img/vannsl-keyboard.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: #334998;
-    font-size: 48px;
+    color: #fff;
+    font-size: 58px;
 }
 
 .hero-whoami {
     display: inline-block;
-    margin: 0 auto 120px;
+    margin: 0 auto 60px;
     width: auto;
-    border: 3px solid #334998;
+    border: 3px solid #fff;
     border-radius: 2px;
     padding: 0 16px;
     font-weight: 400;
@@ -73,12 +73,12 @@ a {
 
 .hero-profession {
     letter-spacing: 2px;
-    font-size: 32px;
+    font-size: 42px;
 }
 
 .about {
     height: auto;
-    padding: 100px 0 150px;
+    padding: 10px 0 10px;
 }
 
 .circular-image {
@@ -162,7 +162,7 @@ a {
 
 .knowledge {
     height: auto;
-    padding: 50px 0 100px;
+    padding: 10px 0 1px;
 }
 
 .knowledge-description {
@@ -237,6 +237,21 @@ blockquote {
     line-height: 1.45;
     position: relative;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
