@@ -1,8 +1,8 @@
 .grid {
 	position: relative;
 	margin: 0 auto;
-	padding: 1em 0 4em;
-	max-width: 1000px;
+	padding: 5em 0 4em;
+	max-width: 300px;
 	list-style: none;
 	text-align: center;
 }
@@ -12,7 +12,7 @@
 	position: relative;
 	float: left;
 	overflow: hidden;
-	margin: 10px 1%;
+	margin: 50px 1%;
 	min-width: 320px;
 	max-width: 480px;
 	max-height: 360px;
@@ -23,14 +23,14 @@
 
 .grid figure img.main {
 	position: relative;
-	display: block;
-	min-height: 100%;
-	max-width: 100%;
+	display: inline-grid;
+	min-height: 50%;
+	max-width: 50%;
 	opacity: 0.8;
 }
 
 .grid figure figcaption {
-	padding: 2em;
+	padding: 4em;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 1.25em;
